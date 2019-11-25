@@ -1,1 +1,8 @@
-{"token":"BOT_TOKEN","client":"BOT_CLIENT_ID","tag":"BOT_PREFIX","case":"false","separator":"\\s+","ownerId":"YOUR_USER_ID"}
+{
+  "case": "false",
+  "client": "648370769319034892",
+  "ownerId": "338492986600194049",
+  "separator": "\\s+",
+  "tag": "!",
+  "token": "NjQ4MzcwNzY5MzE5MDM0ODky.XdtQaw.tT9BUCwiOLbPePvAE0R3afhC4V0"
+}
